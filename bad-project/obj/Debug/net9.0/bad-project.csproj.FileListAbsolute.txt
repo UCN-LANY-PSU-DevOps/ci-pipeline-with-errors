@@ -1,0 +1,15 @@
+C:\repos\ci-pipeline-with-errors\bad-project\bin\Debug\net9.0\bad-project.exe
+C:\repos\ci-pipeline-with-errors\bad-project\bin\Debug\net9.0\bad-project.deps.json
+C:\repos\ci-pipeline-with-errors\bad-project\bin\Debug\net9.0\bad-project.runtimeconfig.json
+C:\repos\ci-pipeline-with-errors\bad-project\bin\Debug\net9.0\bad-project.dll
+C:\repos\ci-pipeline-with-errors\bad-project\bin\Debug\net9.0\bad-project.pdb
+C:\repos\ci-pipeline-with-errors\bad-project\obj\Debug\net9.0\bad-project.GeneratedMSBuildEditorConfig.editorconfig
+C:\repos\ci-pipeline-with-errors\bad-project\obj\Debug\net9.0\bad-project.AssemblyInfoInputs.cache
+C:\repos\ci-pipeline-with-errors\bad-project\obj\Debug\net9.0\bad-project.AssemblyInfo.cs
+C:\repos\ci-pipeline-with-errors\bad-project\obj\Debug\net9.0\bad-project.csproj.CoreCompileInputs.cache
+C:\repos\ci-pipeline-with-errors\bad-project\obj\Debug\net9.0\bad-project.sourcelink.json
+C:\repos\ci-pipeline-with-errors\bad-project\obj\Debug\net9.0\bad-project.dll
+C:\repos\ci-pipeline-with-errors\bad-project\obj\Debug\net9.0\refint\bad-project.dll
+C:\repos\ci-pipeline-with-errors\bad-project\obj\Debug\net9.0\bad-project.pdb
+C:\repos\ci-pipeline-with-errors\bad-project\obj\Debug\net9.0\bad-project.genruntimeconfig.cache
+C:\repos\ci-pipeline-with-errors\bad-project\obj\Debug\net9.0\ref\bad-project.dll
