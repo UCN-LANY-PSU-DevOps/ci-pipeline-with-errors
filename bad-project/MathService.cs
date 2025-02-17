@@ -4,25 +4,19 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace bad_project
+namespace bad_project;
+
+public class MathService(ICalculator calculator)
 {
-    public class MathService
+    private readonly ICalculator _calculator = calculator;
+
+    public int CalculateSum(int[] numbers)
     {
-        private readonly ICalculator _calculator;
-
-        public MathService(ICalculator calculator)
+        int sum = 0;
+        foreach (var number in numbers)
         {
-            _calculator = calculator;
+            sum = _calculator.Add(sum, number);
         }
-
-        public int CalculateSum(int[] numbers)
-        {
-            int sum = 0;
-            foreach (var number in numbers)
-            {
-                sum = _calculator.Add(sum, number);
-            }
-            return sum;
-        }
+        return sum;
     }
 }
